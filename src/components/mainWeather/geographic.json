@@ -1,0 +1,48 @@
+[
+    
+    {
+        "id":1,
+        "name":"m-b",
+        "value":"Marmara Bölgesi",
+        "city":
+        [ "istanbul", "edirne", "balikesir", "bursa", "kocaeli" ]
+
+    },
+    {
+        "id":2,
+        "name":"e-b",
+        "value":"Ege Bölgesi",
+        "city":[ "izmir", "manisa" ,"aydin" , "denizli", "kutahya" ]
+    },
+    {
+        "id":3,
+        "name":"k-b",
+        "value":"Karadeniz Bölgesi",
+        "city":[ "trabzon", "rize", "ordu", "tokat", "zonguldak"  ]
+    },
+    {
+        "id":4,
+        "name":"a-b",
+        "value":"Akdeniz Bölgesi",
+        "city":[ "antalya", "hatay", "mersin", "adana", "isparta" ]
+    },
+    {
+        "id":5,
+        "name":"i-a-b",
+        "value":"iç Anadolu Bölgesi",
+            
+        "city":[ "ankara", "eskisehir", "konya","sivas", "kayseri" ]
+    },
+    {
+        "id":6,
+        "name":"d-a-b",
+        "value":"Doğu Anadolu Bölgesi",
+        "city":[ "erzurum", "erzincan", "bitlis", "kars", "malatya" ]
+    },
+    {
+        "id":7,
+        "name":"g-a-b",
+        "value":"Güneydoğu Anadolu Bölgesi",
+        "city":[ "gaziantep", "diyarbakir", "mardin", "batman", "kilis" ]
+    }
+]
