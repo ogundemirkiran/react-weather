@@ -1,4 +1,4 @@
-import { React, useState, useEffect, createContext, useContext } from "react";
+import { React, useState, useEffect, createContext } from "react";
 
 import geographic from "../components/mainWeather/geographic.json";
 
