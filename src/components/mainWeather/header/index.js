@@ -1,12 +1,10 @@
-import { useState, useEffect, useContext } from "react";
+import { useEffect, useContext } from "react";
 import { useFormik } from "formik";
-import { Form, Button } from "react-bootstrap/";
+import { Form } from "react-bootstrap/";
 import geographic from "../geographic.json";
 import AuthContext from "../../../context/authcontext";
 
 function Cityweather() {
-  const [oneGeo, setOneGeo] = useState("");
-
   const authData = useContext(AuthContext);
 
   const { handleChange, values } = useFormik({
